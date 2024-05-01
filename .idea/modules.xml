@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-5/learn-spring-5.iml" filepath="$PROJECT_DIR$/learn-spring-5/learn-spring-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-5/pet-clinic-data/pet-clinic-data.iml" filepath="$PROJECT_DIR$/learn-spring-5/pet-clinic-data/pet-clinic-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-5/pet-clinic-web/pet-clinic-web.iml" filepath="$PROJECT_DIR$/learn-spring-5/pet-clinic-web/pet-clinic-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-guru-course.iml" filepath="$PROJECT_DIR$/.idea/spring-guru-course.iml" />
+    </modules>
+  </component>
+</project>
