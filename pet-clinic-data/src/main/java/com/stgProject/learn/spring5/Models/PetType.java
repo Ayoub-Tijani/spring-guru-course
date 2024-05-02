@@ -1,4 +1,4 @@
-package spring5.Models;
+package com.stgProject.learn.spring5.Models;
 
 public class PetType {
 

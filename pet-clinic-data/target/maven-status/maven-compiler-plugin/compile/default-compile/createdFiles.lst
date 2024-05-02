@@ -1,0 +1,6 @@
+Main.class
+com\stgProject\learn\spring5\Models\Vet.class
+com\stgProject\learn\spring5\Models\Owner.class
+com\stgProject\learn\spring5\Models\Pet.class
+com\stgProject\learn\spring5\Models\Person.class
+com\stgProject\learn\spring5\Models\PetType.class
